@@ -43,8 +43,8 @@ Kaggle API token​
 
 **Installation**
 
-**1. Clone the repository** git clone https://github.com/yourusername/Data_Analytics_Project.git
-cd your-repo-name
+**1. Clone the repository** git clone https://github.com/gayatrigolhargithub/Data_Analytics_Project.git
+cd Data_Analytics_Project
 
 **2. Install Python dependencies**
 pip install -r requirements.txt
